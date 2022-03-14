@@ -1,0 +1,82 @@
+body
+{
+    background-color:rgba(66, 4, 9, 0.774)
+}
+#welcome_part
+{
+    background-color:rgb(15, 209, 209);
+    font-size:300%;
+    font-family:serif;
+}
+#scholl_parts
+{
+    background-color:white;
+    text-align:center;
+    font-family: Verdana;
+}
+#scholl_names
+{
+    color:rgb(226, 119, 86);
+    font-size:50px;
+    font-family:Haettenschweiler;
+}
+#collage_intro
+{
+    text-align:center;
+    font-size:300%;
+    font-family: Calibri;
+}
+#collage_detail
+{
+    color:rgb(190, 173, 236);
+    font-family:Courier;
+}
+#university_intro
+{
+    text-align:center;
+    border:2px solid burlywood;
+}
+#university_discp
+{
+    color:rgb(2, 122, 2);
+    background-color:white;
+}
+#social_media
+{
+    text-align:center;
+}
+#my_devil
+{
+    color:aquamarine;
+    font-size:300%;
+}
+#my_devil1
+{
+    color:antiquewhite;
+}
+#my_devil2
+{
+    color:aquamarine;
+}
+#my_devil3
+{
+    color:aqua;
+}
+#my_devil4
+{
+    color:azure;
+}
+#my_family
+{
+    text-align:center;
+    color:aquamarine;
+}
+#location
+{
+    text-align:center;
+    color:beige;
+}
+#location_
+{
+    color:aqua;
+}
